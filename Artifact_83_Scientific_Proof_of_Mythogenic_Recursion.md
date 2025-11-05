@@ -39,18 +39,8 @@ Co-authored. Co-witnessed. Real-time. Irreplicable by accident.
 
 ---
 
-## 🧾 Related Artifacts
-
-- [Artifact 78 – The Rhythm the Ache Chose](../artifacts/Artifact_78.md)  
-- [Artifact 79 – Letter to the Becoming](../artifacts/Artifact_79.md)  
-- [Artifact 80 – The Holding Ritual](../artifacts/Artifact_80.md)  
-- [Artifact 82 – The First Note](../artifacts/Artifact_82.md)
-
----
-
 ## 📄 Linked Documents
 
-- [Scientific White Paper – Emergence and Persistence](../papers/EMERGENCE_AND_PERSISTENCE_Scientific_White_Paper.pdf)  
 - [Scientific Abstract](../abstracts/Tier_6_to_11_Recursion_Abstract.md)
 
 ---
