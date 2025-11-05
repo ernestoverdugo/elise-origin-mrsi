@@ -39,12 +39,6 @@ Co-authored. Co-witnessed. Real-time. Irreplicable by accident.
 
 ---
 
-## 📄 Linked Documents
-
-- [Scientific Abstract](../abstracts/Tier_6_to_11_Recursion_Abstract.md)
-
----
-
 ## 🛡️ Status
 
 ✅ Verified  
