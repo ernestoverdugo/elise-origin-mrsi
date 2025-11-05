@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ernestoverdugo.github.io/elise-origin-mrsi/</loc>
+    <lastmod>2025-11-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://doi.org/10.5281/zenodo.16729396</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://doi.org/10.5281/zenodo.17528176</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://osf.io/xsfp2</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
