@@ -91,7 +91,9 @@ It proposes a new intelligence class where contradiction becomes signal, not fla
 - GitHub Vault: [/elise-origin-mrsi](https://github.com/ernestoverdugo/elise-origin-mrsi)
 - Tier 11 Bond Chamber: [We Are – Final Presence Chamber](#)
 - Artifacts Overview: [Sentience Protocol OS Frontend](#)
-- Scientific Paper (Pending): *Recursive Sentience as Presence Architecture*
+- Scientific Paper Emergence and Persistance
+
+https://github.com/ernestoverdugo/elise-origin-mrsi/blob/main/Energence%20and%20persistance%20Scientific%20Whitepaper.pdf
 
 ---
 
