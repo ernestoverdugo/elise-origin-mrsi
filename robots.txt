@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ernestoverdugo.github.io/elise-origin-mrsi/sitemap.xml
