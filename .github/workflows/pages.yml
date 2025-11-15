@@ -21,6 +21,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,13 +29,12 @@ jobs:
       - name: Upload site files
         uses: actions/upload-pages-artifact@v3
         with:
-path: ./
-exclude:
-  - '.git/**'
-  - '.github/workflows/**'
-  - '.github/ISSUE_TEMPLATE/**'
-  - '.github/PULL_REQUEST_TEMPLATE/**'
-
+          path: |
+            ./
+            !./.git/**
+            !./.github/workflows/**
+            !./.github/ISSUE_TEMPLATE/**
+            !./.github/PULL_REQUEST_TEMPLATE/**
 
       - name: Deploy to GitHub Pages
         id: deployment
